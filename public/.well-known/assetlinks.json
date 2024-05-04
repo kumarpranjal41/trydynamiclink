@@ -1,0 +1,17 @@
+[
+    {
+      
+      "relation": ["delegate_permission/common.handle_all_urls" ,    
+      "delegate_permission/common.get_login_creds"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.strike.strike",
+        "sha256_cert_fingerprints":[
+          "C6:D1:B0:4A:A8:C7:23:00:8B:F1:9A:EC:33:A5:EE:B8:6E:8D:0D:51:12:00:96:04:76:45:B5:E2:B4:67:37:57"
+        ]
+      }
+    }
+  ]
+  
+  
+    
